@@ -38,9 +38,10 @@ Example: 12.38
 1. `boxHumidity`: **Box relative humidity** - Relative humidity percentage. Measured on fan enclosure. Float value representing relative humidity in percent. Example: `55.72`.
 1. `controllerHumidity`: **Ambient relative humidity** - Relative humidity percentage. Measured in the head unit enclosure. Float value representing relative humidity in percent. Example: `73.21`.
 1. `compressorVolts`: **System Voltage** - Voltage measured at head unit.
+1. `Locale`: **Temperature locale** - The currently set temperature locale. Farenheit(F) or Celsius(C). Example: `F`.
+1. `compressorAmps`: **Compressor Amps** - Number of amps being consumed by the compressor. A value with two decimals. Example: `0.02`. 
 
 ### Future Values
-1. `compressorAmps`: **Compressor Amps** - Number of amps being consumed by the compressor.
 
 ### Possible Json Format
 
