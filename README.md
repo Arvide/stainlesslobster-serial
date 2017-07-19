@@ -2,7 +2,7 @@
 
 ## Proposal
 
-Every 60 seconds the fridge optimizer controller will write to the usb/serial port a string of comma seperated numerical values. Example: `"1,700,1,-6.61,40,26.67,70,12.4,5.6"`
+Every 60 seconds the fridge optimizer controller will write to the usb/serial port a string of comma seperated numerical values. Example: `"1,700,1,-6.61,40,26.67,70,12.4,5.6,F,0.02"`
 
 
 
